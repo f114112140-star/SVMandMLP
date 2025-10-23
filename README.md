@@ -1,6 +1,4 @@
 SVM 的訓練過程數學推導
-<img width="922" height="956" alt="image" src="https://github.com/user-attachments/assets/88f6ea46-c3f2-484e-8d81-9d8e2547c9d6" />
-
 
 MLP 的訓練過程數學推導  
 
